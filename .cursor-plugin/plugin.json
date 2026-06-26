@@ -1,0 +1,19 @@
+{
+  "name": "rpa-init",
+  "displayName": "rpa-init",
+  "version": "1.0.0",
+  "description": "Warm up context on a repository: study code, docs and test code, set up the dev environment the project expects, run tests, write a short project report. No extra user brief required.",
+  "author": {
+    "name": "Pavel Zloi",
+    "email": "paul@drteam.rocks"
+  },
+  "license": "MIT",
+  "keywords": [
+    "onboarding",
+    "repository",
+    "context",
+    "testing",
+    "workflow",
+    "rpa"
+  ]
+}
