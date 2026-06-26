@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Warm up context on a repository: study code, docs and test code, set up the dev environment the project expects, run tests, write a short project report. No extra user brief required.",
   "author": {
-    "name": "Pavel Zloi",
+    "name": "Pavel Rykov",
     "email": "paul@drteam.rocks",
     "url": "https://t.me/evilfreelancer"
   },
@@ -22,7 +22,7 @@
   "interface": {
     "displayName": "rpa-init",
     "shortDescription": "Warm up repo context: study code/docs/tests, set up env, run tests, report.",
-    "developerName": "Pavel Zloi",
+    "developerName": "Pavel Rykov",
     "category": "Developer Tools",
     "websiteURL": "https://github.com/EvilFreelancer/rpa-init"
   }
