@@ -18,7 +18,7 @@
     "workflow",
     "rpa"
   ],
-  "skills": "./skills/",
+  "skills": "./",
   "interface": {
     "displayName": "rpa-init",
     "shortDescription": "Warm up repo context: study code/docs/tests, set up env, run tests, report.",
