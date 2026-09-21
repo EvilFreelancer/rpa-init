@@ -1,7 +1,7 @@
 {
   "name": "rpa-init",
   "displayName": "rpa-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Warm up context on a repository: study code, docs and test code, set up the dev environment the project expects, run tests, write a short project report. No extra user brief required.",
   "author": {
     "name": "Pavel Rykov",

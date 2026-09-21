@@ -1,7 +1,7 @@
 {
   "name": "rpa-init",
   "description": "Warm up context on a repository: study code, docs and test code, set up the dev environment the project expects, run tests, write a short project report. No extra user brief required.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Pavel Rykov",
     "email": "paul@drteam.rocks"
@@ -16,6 +16,5 @@
     "testing",
     "workflow",
     "rpa"
-  ],
-  "category": "workflow"
+  ]
 }

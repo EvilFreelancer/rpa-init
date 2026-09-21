@@ -1,7 +1,7 @@
 ---
 name: rpa-init
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 description: >
   Run when the user invokes /rpa-init or asks to onboard or warm up context on a repository.
   The agent studies code, reads documentation and test code, sets up the dev environment as the project expects,
