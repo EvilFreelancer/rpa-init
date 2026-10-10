@@ -42,11 +42,11 @@ brings a newer version of the skill with each release.
 
 | Tool          | Path                          |
 |---------------|-------------------------------|
+| Coddy         | `~/.coddy/skills/rpa-init/`       |
 | Claude Code   | `~/.claude/skills/rpa-init/`      |
 | Cursor        | `~/.cursor/skills/rpa-init/`      |
 | OpenAI Codex  | `~/.codex/skills/rpa-init/`       |
 | Kimi Code CLI | `~/.kimi/skills/rpa-init/`        |
-| Coddy         | `~/.coddy/skills/rpa-init/`       |
 
 The directory name must match the `name` field in `SKILL.md`.
 
